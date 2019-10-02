@@ -114,3 +114,6 @@ This shows you all the files that have changed and how they've changed.
 Now we can use the git log command again to see all new commits.
 
 (You may need to switch branches back to the master branch. You can do that using the git checkout master command.)
+
+Citations:
+https://opensource.com/article/18/1/step-step-guide-git
