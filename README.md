@@ -1,6 +1,6 @@
 # A03
 
-Step 1: Install git and create a GitHub account 
+Prereq: Install git and create a GitHub account 
 The first two things you'll want to do are install git and create a free GitHub account.
 
 Note that for this tutorial we will be using git on the command line only. While there are some great git GUIs (graphical user interfaces), I think it's easier to learn git using git-specific commands first and then to try out a git GUI once you're more comfortable with the command. 
